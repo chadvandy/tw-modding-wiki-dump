@@ -1,0 +1,115 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+  <siteinfo>
+    <sitename>Total War Modding</sitename>
+    <dbname>my_wiki</dbname>
+    <base>https://tw-modding.com/wiki/Main_Page</base>
+    <generator>MediaWiki 1.39.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Total War Modding</namespace>
+      <namespace key="5" case="first-letter">Total War Modding talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="274" case="first-letter">Widget</namespace>
+      <namespace key="275" case="first-letter">Widget talk</namespace>
+      <namespace key="3000" case="first-letter">Lua</namespace>
+      <namespace key="3002" case="first-letter">Tutorial</namespace>
+      <namespace key="3004" case="first-letter">UI</namespace>
+      <namespace key="3006" case="first-letter">Battle Maps</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Main Page</title>
+    <ns>0</ns>
+    <id>1</id>
+    <revision>
+      <id>1271</id>
+      <parentid>1270</parentid>
+      <timestamp>2024-07-06T00:38:11Z</timestamp>
+      <contributor>
+        <username>Vandy</username>
+        <id>1</id>
+      </contributor>
+      <minor/>
+      <comment>/* THIS IS A WIKI */</comment>
+      <origin>1271</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="4068" sha1="lyk2u7ep8kx30o92lqo9nvfdwghliun" xml:space="preserve">== THIS IS A WIKI ==
+Hi! Just wanted to shout that you can '''sign up for an account to help contribute any changes to the wiki!''' It's a wiki! It's not just one guy!
+
+If you request an account, just let us know in the #modding_wiki channel in the Modding Den Discord, and we'll let you in as soon as we can!
+
+please help.
+== Help Out ==
+To give a hand, please check out the page [[Meta]] for the various bits of stuff we've marked as necessary. There are also pages in [[:Category:To Edit]] which have listed changes needed.
+
+There's a lot to do to help out! Most importantly, '''share what knowledge you have.''' If you are very knowledgeable about some subject, write a few new pages about it. Make edits to existing pages. Add new categories, fill out details. This is a communal effort, and while I'll be trying to shepherd it along and keep everything relatively organized, this is very intentionally a group effort!
+
+''Note: Only verified accounts can make edits. Just register a new account with your username and log in, and you can make edits. They will currently enter approval queue to prevent spam.''
+
+'''To make a new page:''' You just have to search for a page in the search bar. The website will ask "Do you want to create a page with name X?" or something similar - click the red link, and start creating a new page from there!
+== Hello ==
+Welcome to the very in-progress Total War: Modding Wiki! Maintained by Vandy, filled in by anyone!
+
+This Wiki is intended to be as good of a one-stop-shop as possible for modding the Total War series, when it comes to walkthroughs for early set-up and understanding, or tutorials to do specific tasks, or general wiki pages as an overview for various modding and game concepts. It should contain all the resources and tutorials really needed to go forward in modding - when all is said and done.
+
+This project is born out of the members of the [https://discord.gg/dd4TUDm Modding Den Discord channel], which is focused on the Total War: Warhammer side of the franchise due to its original founding by two popular Warhammer modders - but other Total Wars are more than welcome here!
+
+The [https://www.totalwar.com/ Total War] Franchise is a product of [https://www.creative-assembly.com/home Creative Assembly], they own it and other important legal business here.
+
+== Navigation ==
+
+=== All available [[Tutorial:Main Page|Tutorials]]: ===
+{{Special:Prefixindex/Tutorial:}}
+
+[[:Category:Tools &amp; Resources|Tools &amp; Resources]]
+===Tutorial Series===
+
+==== Lua Tutorial Series, by Vandy: ====
+{{Special:Prefixindex/Lua:}}
+
+==== UI Tutorial Series, by Vandy: ====
+{{Special:Prefixindex/UI:}}
+
+==== Battle Map Tutorial Series, by Frodo: ====
+{{Special:Prefixindex/Battle Maps:}}
+=== All Pages ===
+{{Special:AllPages}}
+
+=== External Tutorials ===
+
+* [https://steamcommunity.com/sharedfiles/filedetails/?id=1698960734 Abilities]
+* [https://steamcommunity.com/sharedfiles/filedetails/?id=1761202425 Ancillaries (Items, Mounts, etc)]
+* [https://steamcommunity.com/sharedfiles/filedetails/?id=1696051257 Character Skills]
+* [https://steamcommunity.com/sharedfiles/filedetails/?id=1694945483 Creating Custom Units]
+* [https://steamcommunity.com/sharedfiles/filedetails/?id=1761177338 Effects]
+* [https://steamcommunity.com/sharedfiles/filedetails/?id=2180764161 Modding 101/FAQs]
+* [https://steamcommunity.com/sharedfiles/filedetails/?id=2233644229 Modding Etiquette and Guidelines]
+
+==Helpful Links For Now==
+*[[mediawikiwiki:Help:Editing_pages|Best practices for editing pages]]
+*[[mediawikiwiki:Help:Formatting|A How-To on using the MediaWiki Formatting]]
+*[[mediawikiwiki:Special:MyLanguage/Manual:Configuration_settings|Configuration settings list]]
+*[[mediawikiwiki:Special:MyLanguage/Manual:FAQ|MediaWiki FAQ]]
+*[https://lists.wikimedia.org/mailman/listinfo/mediawiki-announce MediaWiki release mailing list]
+*[[mediawikiwiki:Special:MyLanguage/Localisation#Translation_resources|Localise MediaWiki for your language]]
+*[[mediawikiwiki:Special:MyLanguage/Manual:Combating_spam|Learn how to combat spam on your wiki]]</text>
+      <sha1>lyk2u7ep8kx30o92lqo9nvfdwghliun</sha1>
+    </revision>
+  </page>
+</mediawiki>
